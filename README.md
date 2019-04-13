@@ -7,11 +7,9 @@
 
 ## Overview
 
-In this lab, you'll be scraping a Kickstarter web page that lists projects
-requesting funding. The page you'll be scraping displays 20 previews of projects
-in the NYC area. Each project has a title, an image, a short description, a
-location and some funding details. Our goal is to collect this information for
-each project and build a hash for each project:
+In this project, this Ruby Gem provides a CLI to display the 50 States in America. Here you can find the capital of each state, a state description, date of statehood, population as of 2010, state size and their nicknames.
+
+
 
 ```ruby
 :projects => {
